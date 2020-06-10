@@ -3,4 +3,4 @@ This is another popular dataset used in pattern recognition literature. The data
 
 Problem: Predict the median value of owner occupied homes.
 
-Conclusion : Here we will learn how to test different graph at a time and how to reduce the length of our code and also we will visulize through graphs real value vs predicted value.
+Conclusion : Here we will learn how to test different graph at a time and we will try to reduce the length of our code and also we will visulize through graphs real value vs predicted value.
