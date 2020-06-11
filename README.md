@@ -1,10 +1,10 @@
 # Data-Science--Machine-Learning-Projects
 This repository contains beginner to advanced Machine Learning Project with dataset.
 
-Table of Contents
+## Table of Contents
 
 
-Beginner Level -
+## Beginner Level -
   Iris Data
   
   Loan Prediction Data
@@ -24,7 +24,7 @@ Beginner Level -
   Heights and Weights Data
 
 
-Intermediate Level -
+## Intermediate Level -
   
   Black Friday Data
   
@@ -43,7 +43,7 @@ Intermediate Level -
   Twitter Classification Data
   
   
-Advanced Level - 
+## Advanced Level - 
   
   Identify your Digits
   
