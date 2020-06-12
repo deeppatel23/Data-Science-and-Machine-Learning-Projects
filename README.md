@@ -3,60 +3,13 @@ This repository contains beginner to advanced Machine Learning Project with data
 
 ## Table of Contents
 
-
-## Beginner Level -
-  Iris Data
+1)Iris Data
   
-  Loan Prediction Data
+2)Loan Prediction Data
   
-  Bigmart Sales Data
+3)Bigmart Sales Data
+    
+4)Boston Housing Data
   
+5)Predicting Champange sales
   
-  Boston Housing Data
-  
-  
-  Time Series Analysis Data
-  
-  Wine Quality Data
-  
-  Turkiye Student Evaluation Data
-  
-  Heights and Weights Data
-
-
-## Intermediate Level -
-  
-  Black Friday Data
-  
-  Human Activity Recognition Data
-  
-  Siam Competition Data
-  
-  Trip History Data
-  
-  Million Song Data
-  
-  Census Income Data
-  
-  Movie Lens Data
-  
-  Twitter Classification Data
-  
-  
-## Advanced Level - 
-  
-  Identify your Digits
-  
-  Urban Sound Classification
-  
-  Vox Celebrity Data
-  
-  ImageNet Data
-  
-  Chicago Crime Data
-  
-  Age Detection of Indian Actors Data
-  
-  Recommendation Engine Data
-  
-  VisualQA Data
