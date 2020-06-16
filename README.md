@@ -13,3 +13,6 @@ This repository contains beginner to advanced Machine Learning Project with data
   
 5)Predicting Champange sales
   
+6)Bullet Train traffic analysis
+
+7)Wine Quality prediction
