@@ -16,3 +16,7 @@ This repository contains beginner to advanced Machine Learning Project with data
 6)Bullet Train traffic analysis
 
 7)Wine Quality prediction
+
+8)Turkiye student dataset
+
+9)Black Friday dataset
